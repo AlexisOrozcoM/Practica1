@@ -1,5 +1,5 @@
 /*
- * nombre del archivo: punto3a.cpp
+ * nombre del archivo: punto3A.cpp
  * descipcion: retorna una letra de acuerdo a los valores numericos que se ingresan
  * Autores: Daniel Mejia Velez -> 1663916
  * 			Javier Alexis Orozco -> 1663928

@@ -1,5 +1,5 @@
 /*
- * nombre del archivo: punto3a.cpp
+ * nombre del archivo: punto5B.cpp
  * descipcion: convierte un numero de base 10 a base 8 y lo retorna 
  * Autores: Daniel Mejia Velez -> 1663916
  * 			Javier Alexis Orozco -> 1663928
