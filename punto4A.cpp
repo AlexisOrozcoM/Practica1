@@ -22,7 +22,7 @@ using namespace std;
 void agregarProducto(map<string, double> &inventario, string producto, double cantidad ){
 	for(map<string, double>::iterator it=inventario.begin(); it!=inventario.end(); ++it){
 		if((it->first.compare(producto))==0){
-			cantidad += it->second;
+			it->second += cantidad;
 		
 		}
 		else{
